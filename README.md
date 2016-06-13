@@ -1,3 +1,7 @@
+[![Travis CI](https://img.shields.io/travis/atesgoral/diameter-avp-object.svg)](https://travis-ci.org/atesgoral/diameter-avp-object)
+[![Coverage Status](https://img.shields.io/coveralls/atesgoral/diameter-avp-object.svg)](https://coveralls.io/github/atesgoral/diameter-avp-object?branch=master)
+[![NPM Package](https://img.shields.io/npm/v/diameter-avp-object.svg)](https://www.npmjs.com/package/regexp-tokenize)
+
 # diameter-avp-object
 
 Syntactical sugar for manipulating node-diameter AVP arrays.
