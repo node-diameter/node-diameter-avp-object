@@ -1,0 +1,30 @@
+{
+  "name": "node-diameter-avp-object",
+  "version": "1.0.0",
+  "description": "Syntactical sugar for manipulating node-diameter AVP arrays",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "coverage": "./node_modules/istanbul/lib/cli.js cover ./node_modules/mocha/bin/_mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atesgoral/node-diameter-avp-object.git"
+  },
+  "keywords": [],
+  "author": "Ates Goral <ates@magnetiq.com> (http://magnetiq.com/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/atesgoral/node-diameter-avp-object/issues"
+  },
+  "homepage": "https://github.com/atesgoral/node-diameter-avp-object#readme",
+  "dependencies": {
+    "diameter": "^0.6.5",
+    "long": "^3.1.0"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "istanbul": "^0.4.3",
+    "mocha": "^2.5.3"
+  }
+}
