@@ -3,7 +3,7 @@
 const chai = require('chai');
 const expect = chai.expect;
 
-const avp = require('../avp');
+const avp = require('../index');
 
 describe('avp', () => {
   describe('toObject', () => {
