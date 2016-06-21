@@ -4,7 +4,7 @@
 
 # diameter-avp-object
 
-Syntactical sugar for manipulating node-diameter AVP arrays.
+Syntactical sugar for manipulating [node-diameter](https://github.com/node-diameter/node-diameter) AVP arrays.
 
 node-diameter's `diameterMessage` event returns a nested array of AVPs in the `event.message.body` property.
 
