@@ -19,7 +19,7 @@
     "url": "https://github.com/atesgoral/diameter-avp-object/issues"
   },
   "homepage": "https://github.com/atesgoral/diameter-avp-object#readme",
-  "dependencies": {
+  "peerDependencies": {
     "diameter": "^0.6.5",
     "long": "^3.1.0"
   },
