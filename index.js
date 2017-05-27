@@ -54,7 +54,7 @@ function fromObject(obj) {
     function pushValue(value) {
       avpList.push([
         decamelizedKey,
-        value instanceof Object && !(value instanceof Long)
+        value instanceof Object && !(value instanceof Long) && !(value instanceof Buffer)
           ? fromObject(value)
           : value
       ]);
