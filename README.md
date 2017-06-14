@@ -1,5 +1,5 @@
-[![Travis CI](https://img.shields.io/travis/atesgoral/diameter-avp-object.svg)](https://travis-ci.org/atesgoral/diameter-avp-object)
-[![Coverage Status](https://img.shields.io/coveralls/atesgoral/diameter-avp-object.svg)](https://coveralls.io/github/atesgoral/diameter-avp-object?branch=master)
+[![Travis CI](https://img.shields.io/travis/node-diameter/node-diameter-avp-object.svg)](https://travis-ci.org/node-diameter/node-diameter-avp-object)
+[![Coverage Status](https://img.shields.io/coveralls/node-diameter/node-diameter-avp-object.svg)](https://coveralls.io/github/node-diameter/node-diameter-avp-object?branch=master)
 [![NPM Package](https://img.shields.io/npm/v/diameter-avp-object.svg)](https://www.npmjs.com/package/diameter-avp-object)
 
 # diameter-avp-object
