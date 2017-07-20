@@ -2,7 +2,7 @@
 [![Coverage Status](https://img.shields.io/coveralls/node-diameter/node-diameter-avp-object.svg)](https://coveralls.io/github/node-diameter/node-diameter-avp-object?branch=master)
 [![NPM Package](https://img.shields.io/npm/v/diameter-avp-object.svg)](https://www.npmjs.com/package/diameter-avp-object)
 
-# diameter-avp-object
+# node-diameter-avp-object
 
 Syntactical sugar for manipulating [node-diameter](https://github.com/node-diameter/node-diameter) AVP arrays.
 
