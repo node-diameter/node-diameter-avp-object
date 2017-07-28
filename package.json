@@ -1,6 +1,6 @@
 {
   "name": "diameter-avp-object",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Syntactical sugar for manipulating node-diameter AVP arrays",
   "main": "index.js",
   "scripts": {
