@@ -8,7 +8,7 @@ Syntactical sugar for manipulating [node-diameter](https://github.com/node-diame
 
 node-diameter's `diameterMessage` event returns a nested array of AVPs in the `event.message.body` property.
 
-Accessing AVPs in this form may look syntactically crowded. This library converts AVP arrays into nested objects that are more syntactically friendly. AVPs are converted into camelCase properties. Multiple occurences of the same AVP are rolled into an array.
+Accessing AVPs in this form may look syntactically crowded. This library converts AVP arrays into nested objects that are more syntactically friendly. AVPs are converted into camelCase properties. Multiple occurrences of the same AVP are rolled into an array.
 
 It also converts such objects back to the nested array form for Diameter answers.
 
