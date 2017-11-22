@@ -1,7 +1,7 @@
 'use strict';
 
 const Long = require('long');
-const dictionary = require('diameter/dictionary.json');
+const dictionary = require('diameter-dictionary');
 
 const toCamelMap = {};
 const fromCamelMap = {};
