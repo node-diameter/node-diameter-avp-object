@@ -1,7 +1,7 @@
 'use strict';
 
 const Long = require('long');
-const dictionary = require('diameter-dictionary');
+const dictionary = require(process.env.DIAMETER_DICTIONARY || 'diameter-dictionary');
 
 const toCamelMap = {};
 const fromCamelMap = {};
